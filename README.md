@@ -18,12 +18,29 @@ Welcome to my Amazon Sales Data Analysis project! In this project, I analyzed a 
 
 ## Key Insights
 - December is the peak sales month, indicating a strong holiday shopping trend.
+  <p align="center">
+    <img src='https://github.com/Dipesh-09/Amazon_Sales_Data_Analysis/blob/main/visuals/sales%20vs%20month.png' width="600">
+</p>
 - The top-selling product is 'AAA Batteries', suggesting its high demand.
+<p align="center">
+    <img src='https://github.com/Dipesh-09/Amazon_Sales_Data_Analysis/blob/main/visuals/max%20sales%20products%20monthwise.png' width="600">
+</p>
 - Customers tend to buy cheaper products in larger quantities.
+<p align="center">
+    <img src='https://github.com/Dipesh-09/Amazon_Sales_Data_Analysis/blob/main/visuals/price%20and%20orders.png' width="600">
+</p>
+- San Francisco emerges as the city with the highest number of orders, followed by New York and Los Angeles.
+- These three cities contribute to more than half of the total orders, suggesting a concentrated customer base in these areas.
+<p align="center">
+    <img src='https://github.com/Dipesh-09/Amazon_Sales_Data_Analysis/blob/main/visuals/citywise%20sales.png' width="600">
+</p>
 - The analysis provides actionable insights for building a recommendation system based on co-purchased products.
+<p align="center">
+    <img src='https://github.com/Dipesh-09/Amazon_Sales_Data_Analysis/blob/main/visuals/product%20purchased%20together.png' width="600">
+</p>
 
 ## Repository Contents
-- Jupyter Notebook: Code and analysis in Python.
+- Jupyter Notebook: Code and Analysis in Python.
 - Data File: The original dataset used for analysis.
 - README.md: You're reading it!
 
